@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx ironport.evercom.co.uk
+mx: ironport.evercom.co.uk
 mx: ironport2.evercom.co.uk
 max_age: 604800
